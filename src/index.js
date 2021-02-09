@@ -1,1 +1,1 @@
-alert('Hello, World!');
+alert("I'm a new text");

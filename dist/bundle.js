@@ -10,6 +10,6 @@
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
-eval("alert('Hello, World!');\n\n\n//# sourceURL=webpack://webpack-boilerplate/./src/index.js?");
+eval("alert(\"I'm a new text\");\r\n\n\n//# sourceURL=webpack://webpack-boilerplate/./src/index.js?");
 /******/ })()
 ;
