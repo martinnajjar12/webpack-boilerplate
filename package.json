@@ -1,0 +1,24 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a boilerplate to start a JS project with Webpack and Bable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinnajjar12/webpack-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinnajjar12/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/martinnajjar12/webpack-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
