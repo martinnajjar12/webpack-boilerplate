@@ -4,10 +4,9 @@
 
 ## Built With
 
-- HTML5
-- CSS3
 - JavaScript
 - Webpack
+- Babel
 
 ## Getting Started
 
